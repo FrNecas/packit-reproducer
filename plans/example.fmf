@@ -1,0 +1,5 @@
+summary: Basic test
+discover:
+    how: fmf
+execute:
+    how: tmt
